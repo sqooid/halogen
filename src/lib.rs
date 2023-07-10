@@ -1,3 +1,4 @@
+mod gene;
 mod utils;
 
 use wasm_bindgen::prelude::*;
